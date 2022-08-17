@@ -1,0 +1,13 @@
+*-cache.lib
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.net
+*.csv
+*.xml
+*.xls
+*-cache
+*.step
+*.zip
+*.csv
+*.xls
+*.tmp
